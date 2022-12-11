@@ -1,0 +1,176 @@
+@font-face {
+    font-family: fontsite;
+    src: url(/lemon_milk/LEMONMILK-Regular.otf);
+}
+
+
+
+header{
+    background-color: #fff;   
+    width: 126.8%;
+    margin-top: -0.6%;
+    margin-left: -13.5%;
+}
+
+
+
+body{
+    background-color: #240747;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+
+.container{
+    background-color: #fff;
+    display: flex;
+}
+
+
+
+.cabeca{
+    display: flex;
+}
+
+
+
+.logo{
+    margin-top: -2.7%;
+    margin-bottom: -3%;
+    margin-left: -0.3%;
+}
+
+
+
+#pagei{
+    margin-top: 30px;
+    margin-left: 33%;
+    color: #430096;
+    font-family: fontsite;
+}
+
+
+
+#linha1{
+    display: block;
+    background-color: #fff;
+    width: 100%;
+    
+    display: flex;
+    justify-content: left;
+    margin-top: -6%;  
+}
+
+#pc5{
+    margin-left: 200px;
+}
+
+#pc5text{
+    text-align: center;
+    margin-left: -50px;
+    font-family: fontsite;
+}
+
+.botaoa{
+    width: 200px;
+}
+
+#backsetup{
+    width: 100%;
+}
+
+#rodape{
+    display: flex;
+    width: 126.6%;
+    margin-bottom: -100%;
+    background-color: rgb(201, 201, 201);
+    margin-left: -13.3%;
+    margin-top: -1.5%;   
+}
+
+
+
+.botaoa{
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+
+
+#rodape{
+    justify-content: center;
+}
+
+.titulopc{
+    margin-left: 30px;
+}
+
+#foto1{
+    display: flex;
+}
+
+#pc5{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+
+
+#valores{
+    font-family: fontsite;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+#valor{
+    color: #430096;
+}
+
+#comprar{
+    background-color: #430096;
+    width: 100%;
+    height: 20%;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 20px;
+    font-family: fontsite;
+    cursor: pointer;
+}
+
+#comprar:hover {
+    transition: 0.5s;
+    color: black;
+    background-color: #8e5ace;
+}
+
+button:hover {
+    
+}
+
+.titulo2 {
+    text-align: center;
+    color: #240747;
+    background-color: #fff;
+    margin-top: -2%;
+    margin-bottom: -2%;
+    text-align: left;
+    font-family: fontsite;
+}
+
+#titulo2 {
+    margin-left: 90px;
+    margin-top: 0px;
+    font-family: fontsite;
+}
+
+#desc{
+    color: black;
+    display: flex;
+    width:80%;
+    text-align: left;
+    margin-bottom: 35px;
+    justify-content: center;
+    margin-left: 10%;
+}

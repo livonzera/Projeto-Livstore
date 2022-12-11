@@ -1,0 +1,125 @@
+links
+
+pc1 https://www.kabum.com.br/produto/337028/computador-facil-intel-core-i3-10100f-8gb-ram-ssd-240gb-geforce-gt-210-1gb-linux-17827
+
+pc2 https://www.kabum.com.br/produto/334039/notebook-asus-amd-ryzen-5-3500u-8gb-ram-ssd-256gb-15-6-radeon-vega-8-windows-11-home-cinza-m515da-br1213w
+
+pc3 https://www.kabum.com.br/produto/308367/notebook-acer-aspire-5-intel-core-i7-10510u-8gb-ram-512gb-ssd-nvme-tela-15-6-ips-full-hd-windows-11-home-prata-a515-54-74f9
+
+pc4 https://www.kabum.com.br/produto/289496/notebook-gamer-acer-nitro-5-amd-ryzen-7-4800h-geforce-gtx-1650-16gb-ram-ssd-256gb-nvme-hdd-1tb-15-6-fhd-144hz-linux-an515-44-r4c8
+
+pc5 https://www.kabum.com.br/produto/347139/pc-gamer-g-fire-htg-779-amd-ryzen-5-pro-4650g-8gb-radeon-graphics-2gb-ssd-240gb-300w
+
+pc6 https://www.kabum.com.br/produto/317876/pc-gamer-concordia-core-i7-10700f-geforce-rtx3060-12gb-16gb-ram-ssd-500gb-branco-32736
+
+pc7 https://www.kabum.com.br/produto/309778/pc-gamer-skul-5000-i5-10400f-geforce-gtx-1650-16gb-ddr4-ssd-240gb-600w-plus-white-linux-g3904-120424
+
+pc8 https://www.kabum.com.br/produto/317875/pc-gamer-concordia-processador-core-i5-10400f-rgb-geforce-gtx1650-8gb-ssd-480gb-preto-32726
+
+monitor1 https://www.kabum.com.br/produto/113405/monitor-gamer-lg-25-ips-ultra-wide-75-hz-full-hd-99-srgb-hdmi-vesa-25um58-g
+
+monitor2 https://www.kabum.com.br/produto/323895/monitor-lg-27-ips-full-hd-hdmi-vesa-ajuste-de-angulo-freesync-bordas-finas-27mp400-b
+
+monitor3 https://www.kabum.com.br/produto/111939/monitor-lg-19-5-led-hd-hdmi-vesa-ajuste-de-angulo-20mk400h-b
+
+monitor4 https://www.kabum.com.br/produto/99866/monitor-lg-23-8-ips-full-hd-hdmi-vesa-ajuste-de-angulo-24mk430h
+
+monitor5 https://www.kabum.com.br/produto/156667/monitor-aoc-23-8-led-wide-full-hd-hdmi-vga-vesa-low-blue-light-adaptive-sync-24b1xhm
+
+monitor6 https://www.kabum.com.br/produto/99865/monitor-lg-21-5-led-full-hd-hdmi-vga-vesa-ajuste-de-angulo-22mk400h
+
+monitor7 https://www.kabum.com.br/produto/99865/monitor-lg-21-5-led-full-hd-hdmi-vga-vesa-ajuste-de-angulo-22mk400h
+
+monitor8 https://www.kabum.com.br/produto/168357/monitor-gamer-samsung-odyssey-g3-24-full-hd-144hz-1ms-freesync-premium-hdmi-displayport-ajuste-de-altura-preto-lf24g35tfwlxzd
+
+monitor9 https://www.kabum.com.br/produto/353747/monitor-gamer-lg-ultra-gear-23-8-ips-144-hz-full-hd-1ms-freesync-hdr-10-99-srgb-hdmi-displayport-ajuste-de-angulo-24gn600-b
+
+monitor10 https://www.kabum.com.br/produto/364836/monitor-gamer-lg-34-led-ultra-wide-curvo-160-hz-qhd-1ms-hdmi-displayport-99-srgb-freesync-premium-hdr-10-vesa-preto-34wp65c-b
+
+headset1 https://www.kabum.com.br/produto/227818/headset-gamer-redragon-zeus-x-chroma-mk-ii-rgb-surround-7-1-usb-drivers-53mm-preto-vermelho-h510-rgb
+
+headset2 https://www.kabum.com.br/produto/102770/headset-gamer-havit-drivers-53mm-hv-h2002d
+
+headset3 https://www.kabum.com.br/produto/115413/headset-gamer-redragon-lamia-2-rgb-drivers-40mm-h320rgb-1
+
+headset4 https://www.kabum.com.br/produto/128544/headset-gamer-razer-blackshark-v2-x-som-surround-7-1-p2-drivers-50mm-rz04-03240100-r3u1
+
+headset5 https://www.kabum.com.br/produto/81132/headset-gamer-hyperx-cloud-stinger-drivers-50mm-multiplas-plataformas-p2-e-p3-hx-hscs-bk-na
+
+headset6 https://www.kabum.com.br/produto/107336/headset-astro-gaming-a10-para-xbox-playstation-pc-mac-branco-verde-939-001854
+
+headset7 https://www.kabum.com.br/produto/315421/headset-gamer-corsair-void-elite-wireless-premium-rgb-surround-7-1-drivers-50mm-carbono-e-prata-ca-9011209-na
+
+headset8 https://www.kabum.com.br/produto/63197/headset-gamer-hyperx-cloud-ii-som-surround-7-1-drivers-53mm-usb-e-p3-preto-e-vermelho-khx-hscp-rd
+ 
+mouse1 https://www.kabum.com.br/produto/227646/mouse-gamer-motospeed-v70-essential-led-rgb-12400-dpi-7-botoes-preto-fmsms0121pto
+
+mouse2 https://www.kabum.com.br/produto/94555/mouse-gamer-redragon-cobra-chroma-rgb-12400dpi-7-botoes-preto-m711-v2
+
+mouse3 https://www.kabum.com.br/produto/98696/mouse-gamer-hyperx-pulsefire-core-rgb-6200-dpi-hx-mc004b
+
+mouse4 https://www.kabum.com.br/produto/109815/mouse-gamer-razer-deathadder-v2-chroma-optical-switch-8-botoes-20000dpi-rz01-03210100-r3u1
+
+mouse5 https://www.kabum.com.br/produto/102649/mouse-gamer-logitech-g403-hero-com-rgb-lightsync-6-botoes-programaveis-ajuste-de-peso-e-sensor-hero-25k-910-005631
+
+mouse6 https://www.kabum.com.br/produto/133211/mouse-gamer-redragon-storm-elite-rgb-8-botoes-16000-dpi-m988-rgb
+
+mouse7 https://www.kabum.com.br/produto/149645/mouse-gamer-redragon-centrophorus-2-rgb-7200dpi-6-botoes-preto-m601-rgb
+
+mouse8 https://www.kabum.com.br/produto/107333/mouse-gamer-sem-fio-logitech-g-pro-wireless-lightspeed-rgb-lightsync-ambidestro-6-botoes-programaveis-hero-25k-910-005271
+
+mouse9 https://www.kabum.com.br/produto/98244/mouse-gamer-logitech-g502-hero-com-rgb-lightsync-ajustes-de-peso-11-botoes-programaveis-sensor-hero-25k-910-005550
+
+mousepad1 https://www.kabum.com.br/produto/91744/mousepad-gamer-hyperx-fury-s-control-grande-450x400mm-hx-mpfs-l
+
+mousepad2 https://www.kabum.com.br/produto/99474/mousepad-gamer-husky-black-avalanche-speed-extra-grande-890x400mm-mp-hav-bk
+
+mousepad3 https://www.kabum.com.br/produto/87560/mousepad-gamer-rise-mode-m4a1-speed-grande-420x290mm-rg-mp-05-m4a
+
+mousepad4 https://www.kabum.com.br/produto/99472/mousepad-gamer-husky-gaming-storm-fire-speed-extra-grande-900x290mm-mp-hst-fr
+
+mousepad5 https://www.kabum.com.br/produto/91161/mousepad-gamer-havit-control-extra-grande-900x300mm-hv-mp830
+
+mousepad6 https://www.kabum.com.br/produto/98069/mousepad-gamer-hyperx-fury-s-speed-grande-450x400mm-hx-mpfs-s-l
+
+mousepad7 https://www.kabum.com.br/produto/92983/mousepad-gamer-fortrek-mpg101-speed-medio-320x240mm-73267v
+
+mousepad8 https://www.kabum.com.br/produto/49604/mousepad-gamer-logitech-g240-para-jogos-de-baixo-dpi-pequeno-280x340mm-943-000093
+
+mousepad9 https://www.kabum.com.br/produto/98070/mousepad-gamer-hyperx-fury-s-speed-extra-grande-900x420mm-hx-mpfs-s-xl
+
+teclado1 https://www.kabum.com.br/produto/371586/teclado-mecanico-gamer-hyperx-alloy-mkw100-rgb-switch-red-full-size-layout-us-4p5e1aa-aba
+
+teclado2 https://www.kabum.com.br/produto/93160/teclado-mecanico-gamer-redragon-kumara-rgb-switch-outemu-brown-pt-k552rgb-1-pt-brown-
+
+teclado3 https://www.kabum.com.br/produto/99696/teclado-gamer-hyperx-alloy-core-rgb-abnt2-hx-kb5me2-br
+
+teclado4 https://www.kabum.com.br/produto/92590/teclado-mecanico-gamer-hyperx-mars-rgb-switch-outemu-blue-us-hx-kb3bl3-us-r4
+
+teclado5 https://www.kabum.com.br/produto/108983/teclado-mecanico-gamer-t-dagger-bora-rgb-switch-outemu-blue-abnt2-t-tgk315-blue
+
+teclado6 https://www.kabum.com.br/produto/310984/teclado-mecanico-gamer-redragon-aps-rgb-switch-redragon-brown-abnt2-low-profile-k607-rgb-pt-brown-
+
+teclado7 https://www.kabum.com.br/produto/113078/teclado-mecanico-gamer-redragon-dark-avenger-k568w-rgb-switch-outemu-mk2-blue-abnt2-branco-k568w-rgb-blue-
+
+teclado8 https://www.kabum.com.br/produto/163971/teclado-mecanico-gamer-husky-gaming-blizzard-60-rgb-switch-gateron-blue-abnt2-branco-hgmo022
+
+teclado9 https://www.kabum.com.br/produto/163973/teclado-mecanico-gamer-husky-gaming-blizzard-60-rgb-switch-gateron-blue-abnt2-preto-hgmo024
+
+mic1 https://www.kabum.com.br/produto/114795/microfone-condensador-cardioide-audio-technica-xlrm-de-3-pinos-at2020
+ 
+mic2 https://www.kabum.com.br/produto/240552/microfone-condensador-profissional-akg-suporte-para-pedestal-preto-akg-p120
+
+mic3 https://www.kabum.com.br/produto/209563/microfone-condensador-usb-blue-yeticaster-preto-988-000107
+
+mic4 https://www.kabum.com.br/produto/226261/microfone-condensador-novik-usb-padrao-cardioide-preto-fnk-02u
+
+mic5 https://www.kabum.com.br/produto/225518/microfone-condensador-skp-com-suporte-usb-plug-and-play-preto-podcast400u
+
+mic6 https://www.kabum.com.br/produto/210186/microfone-shotgun-sennheiser-mke-400-stereo-compacto-preto-508898
+
+
+
+
+
+
